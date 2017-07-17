@@ -20,6 +20,11 @@ nav {
 .hello {
 	font-family: 'Berkshire Swash', cursive;
 }
+
+.thanks {
+	background-image: url(sand_background.jpg);	
+}
+
 /* 
 #c5d5cb -- greenish
 #9fa8a3 -- grayish 
