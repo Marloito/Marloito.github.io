@@ -2,6 +2,10 @@ body {
 	background: #c5d5cb;
 }
 
+a:visited {
+	color: #6A0888;
+}
+
 #resume-img {
 	width: 900px;
 	height: 1200px;
