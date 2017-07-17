@@ -1,6 +1,6 @@
 body {
 	background: #c5d5cb;
-	max-width: 500px;
+	min-width: 500px;
 }
 
 a:visited {
@@ -36,7 +36,7 @@ this page responsive at this time
 so including media query as place 
 holder to build upon later */
 
-@media screen and (max-width: 800px;) {
+@media screen and (max-width: 800px) {
 	body {
 		background-color: #e3e0cf; 
 	}
