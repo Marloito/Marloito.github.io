@@ -1,3 +1,17 @@
 body {
-	background: blue;
+	background: #c5d5cb;
 }
+
+#resume-img {
+	width: 900px;
+	height: 1200px;
+	padding: 20px;
+	border: 20px solid #9fa8a3;
+}
+
+/* 
+#c5d5cb -- greenish
+#9fa8a3 -- grayish 
+#e3e0cf -- tanish
+#fff -- white
+*/
