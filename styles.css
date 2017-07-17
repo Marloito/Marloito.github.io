@@ -1,3 +1,50 @@
 body {
-	background: blue;
+	background: #c5d5cb;
+	min-width: 500px;
 }
+
+a:visited {
+	color: #6A0888;
+}
+
+#resume-img {
+	width: 900px;
+	height: 1200px;
+	padding: 20px;
+	border: 20px solid #9fa8a3;
+	margin: 10px;
+}
+
+nav {
+	margin: 40px 20px;
+}
+
+.center {
+	text-align: center;
+}
+
+.hello {
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.thanks {
+	background-image: url(sand_background.jpg);	
+}
+
+/*could not think of ways to make 
+this page responsive at this time 
+so including media query as place 
+holder to build upon later */
+
+@media screen and (max-width: 800px) {
+	body {
+		background-color: #e3e0cf; 
+	}
+}
+
+/* COLOR PALLET
+#c5d5cb -- greenish
+#9fa8a3 -- grayish 
+#e3e0cf -- tanish
+#fff -- white
+*/
